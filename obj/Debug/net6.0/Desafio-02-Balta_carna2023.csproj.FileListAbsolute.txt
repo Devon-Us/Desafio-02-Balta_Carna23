@@ -1,0 +1,15 @@
+D:\dev\Desafio-02-Balta_carna2023\bin\Debug\net6.0\Desafio-02-Balta_carna2023.exe
+D:\dev\Desafio-02-Balta_carna2023\bin\Debug\net6.0\Desafio-02-Balta_carna2023.deps.json
+D:\dev\Desafio-02-Balta_carna2023\bin\Debug\net6.0\Desafio-02-Balta_carna2023.runtimeconfig.json
+D:\dev\Desafio-02-Balta_carna2023\bin\Debug\net6.0\Desafio-02-Balta_carna2023.dll
+D:\dev\Desafio-02-Balta_carna2023\bin\Debug\net6.0\Desafio-02-Balta_carna2023.pdb
+D:\dev\Desafio-02-Balta_carna2023\obj\Debug\net6.0\Desafio-02-Balta_carna2023.csproj.AssemblyReference.cache
+D:\dev\Desafio-02-Balta_carna2023\obj\Debug\net6.0\Desafio-02-Balta_carna2023.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\Desafio-02-Balta_carna2023\obj\Debug\net6.0\Desafio-02-Balta_carna2023.AssemblyInfoInputs.cache
+D:\dev\Desafio-02-Balta_carna2023\obj\Debug\net6.0\Desafio-02-Balta_carna2023.AssemblyInfo.cs
+D:\dev\Desafio-02-Balta_carna2023\obj\Debug\net6.0\Desafio-02-Balta_carna2023.csproj.CoreCompileInputs.cache
+D:\dev\Desafio-02-Balta_carna2023\obj\Debug\net6.0\Desafio-02-Balta_carna2023.dll
+D:\dev\Desafio-02-Balta_carna2023\obj\Debug\net6.0\refint\Desafio-02-Balta_carna2023.dll
+D:\dev\Desafio-02-Balta_carna2023\obj\Debug\net6.0\Desafio-02-Balta_carna2023.pdb
+D:\dev\Desafio-02-Balta_carna2023\obj\Debug\net6.0\Desafio-02-Balta_carna2023.genruntimeconfig.cache
+D:\dev\Desafio-02-Balta_carna2023\obj\Debug\net6.0\ref\Desafio-02-Balta_carna2023.dll
